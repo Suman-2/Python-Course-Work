@@ -1,5 +1,5 @@
-a=int(input("number"))
-b=int(input("number"))
+a=int(input("enter number"))
+b=int(input("enter number"))
 a=a+b
 b=a-b
 a=a-b 
